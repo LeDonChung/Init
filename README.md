@@ -11,3 +11,7 @@
 ![Databricks Shell - Details for Query 440](https://github.com/user-attachments/assets/e4edb66d-7603-4fec-a56a-d2114a212c00)
 
 ![Databricks Shell - Details for Query 481](https://github.com/user-attachments/assets/a69a3370-b34f-4241-8e72-f99a69c9de9f)
+
+![Databricks Shell - Details for Query 517](https://github.com/user-attachments/assets/c3dda0b8-3e8d-4d77-b937-ad29f1b6031d)
+
+![Databricks Shell - Details for Query 539](https://github.com/user-attachments/assets/1e392212-61f4-4ffe-aaa1-d0901924e8fd)
